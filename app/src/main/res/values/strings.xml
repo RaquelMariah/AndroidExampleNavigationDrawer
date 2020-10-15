@@ -7,8 +7,12 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">Cão</string>
+    <string name="menu_gallery">Gato</string>
+    <string name="menu_slideshow">Furão</string>
     <string name="teste_navigation_drawer">Teste Explorando Navigation Drawer</string>
+    <string name="github">https://github.com/RaquelMariah/AndroidExampleNavigationDrawer</string>
+    <string name="cao">Cão</string>
+    <string name="gato">Gato</string>
+    <string name="furao">Furão</string>
 </resources>
