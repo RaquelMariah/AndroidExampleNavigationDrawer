@@ -16,5 +16,9 @@
     <string name="gato">Gato</string>
     <string name="furao">Furão</string>
     <string name="golden_name">Golden Retriever</string>
+    <string name="manes_name">Gato Manês</string>
+    <string name="furao_name">Furão Doméstico</string>
+    <string name="manes_info">Apesar de ser um tanto popular, a origem do gato manês ainda é bastante misteriosa. Seu nome indica sua nacionalidade: a Ilha de Man, no Reino Unido. Tirando o fato do gato manês não ter cauda, ele é um bichano comum. Eles são alegres e divertidos, e costumam ser ótimas companhias. Se o gato for saudável e não apresentar as doenças típicas da raça, sua expectativa de vida pode girar em torno de 10 anos, chegando até os 18.</string>
     <string name="golden_info">De origem britânica, conhecido por ser muito dócil e companheiro, o Golden Retriever é considerado por muitos o “cão dos sonhos”. Bastante inteligente, pronto para aprender truques e muitas vezes usados como cães-guia, o Golden é um cachorro ativo e que gosta de ajudar e agradar a todos (inclusive aqueles que não conhece tão bem). Adora truques e precisa de muita atenção e de tempo disponível para gastar sua energia. Ele também é um ótimo nadador e o favorito de várias famílias, algo que fez com que a sua popularidade ficasse bastante alta nas últimas décadas aqui no Brasil e no mundo.</string>
+    <string name="ferret_info">Do corpo magro e comprido ao pelo sedoso e carinha de curioso, o furão doméstico é um pet irresistível! Junte o fato dele ser relativamente pequeno e de viver em gaiolas e será fácil entender o motivo para ele se tornar cada vez mais popular entre os brasileiros. Eles são semelhantes aos felinos, possuem alto custo de manutenção, tomam vacinas, adoram interagir com seus tutores, gostam de sair para passear e precisam de companheiros, ou seja, não podem viver sozinhos.</string>
 </resources>
